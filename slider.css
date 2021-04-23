@@ -3,8 +3,8 @@
   position: relative;
   width: 600px;
   height: 175px ;
-  botom-padding: 1px;
-  top-padding: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
