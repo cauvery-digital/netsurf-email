@@ -10,13 +10,12 @@
 #slideshow > div {
   background-color: white;
   position: absolute;
-  top: 25px;
+  top: 30px;
   left: 0px;
   right: 0px;
   bottom: 0px;
 }
 .responsive {
   width: 100%;
-  max-width: 400px;
   height: auto;
 }
