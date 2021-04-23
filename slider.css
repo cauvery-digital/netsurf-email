@@ -8,6 +8,7 @@
 }
 
 #slideshow > div {
+  background-color: white;
   position: absolute;
   top: 0px;
   left: 0px;
